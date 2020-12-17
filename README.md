@@ -23,4 +23,6 @@ $ sh [欲執行之.sh檔]
 ## 修改.sh檔並執行(門檻值0.3)
 我們同上步驟，只是這次將門檻值調到0.3，試試看跑出來的圖檔會是甚麼樣子。
 ![](https://github.com/ggininboy/ggininhomework/blob/main/%E9%96%80%E6%AA%BB0.3.jpg?raw=true)
+<br>
+<br>
 ## 結論
